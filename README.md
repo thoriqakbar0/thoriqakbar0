@@ -1,6 +1,6 @@
 # Hi, I’m Thoriq.
 
-[![Sunset over ocean waves](assets/ocean-waves.gif)](https://commons.wikimedia.org/wiki/File:Ocean_surface_waves_06.ogv)
+[![Sunset over ocean waves](assets/ocean-waves-dithered.gif)](https://commons.wikimedia.org/wiki/File:Ocean_surface_waves_06.ogv)
 
 _An animated excerpt from [“Ocean surface waves 06”](https://commons.wikimedia.org/wiki/File:Ocean_surface_waves_06.ogv) by [Mostafameraji](https://commons.wikimedia.org/wiki/User:Mostafameraji), available under [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/)._
 
