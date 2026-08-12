@@ -31,4 +31,4 @@ At [Pandai](https://pandai.org), I’m building [P&AI](https://github.com/p-n-ai
 
 ## Connect
 
-[ta-0.com](https://ta-0.com) · [GitHub profile](https://github.com/thoriqakbar0) · [X profile](https://x.com/isninkhamiss) · [Email Thoriq](mailto:its@thoriq.link)
+[ta-0.com](https://ta-0.com) · [GitHub profile](https://github.com/thoriqakbar0) · [X profile](https://x.com/isninkhamiss) · [Email Thoriq](mailto:thoriqakbar00@gmail.com)
