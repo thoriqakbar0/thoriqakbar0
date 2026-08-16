@@ -16,7 +16,7 @@ At [Pandai](https://pandai.org), I’m building [P&AI](https://github.com/p-n-ai
 
 - 🤖 **[P&AI](https://github.com/p-n-ai/pai-bot)** — An open-source tutoring agent for curriculum-based practice
 - 🖥️ **[Ernie](https://github.com/thoriqakbar0/ernie)** — An experimental macOS workspace that keeps Prime Agent sessions with their repositories and Git worktrees
-- 🌱 **[Garden](https://github.com/thoriqakbar0/garden)** — A self-hosted runtime for durable, recoverable AI agent sessions
+- 🌱 **[Garden](https://github.com/thoriqakbar0/garden)** — Run Eve on your own infrastructure
 - 🦊 **[Agent Lite](https://github.com/thoriqakbar0/agent-lite)** — A compact `agent-browser` fork built around Camofox and Camoufox-powered Firefox
 - 🧰 **[Skills](https://github.com/thoriqakbar0/skills)** — Reusable instructions for AI agents and the people who work with them
 
