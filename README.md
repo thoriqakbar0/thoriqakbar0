@@ -15,6 +15,7 @@ At [Pandai](https://pandai.org), I’m building [P&AI](https://github.com/p-n-ai
 ## Start here
 
 - 🤖 **[P&AI](https://github.com/p-n-ai/pai-bot)** — An open-source tutoring agent for curriculum-based practice
+- 🖥️ **[Ernie](https://github.com/thoriqakbar0/ernie)** — An experimental macOS workspace that keeps Prime Agent sessions with their repositories and Git worktrees
 - 🌱 **[Garden](https://github.com/thoriqakbar0/garden)** — A self-hosted runtime for durable, recoverable AI agent sessions
 - 🦊 **[Agent Lite](https://github.com/thoriqakbar0/agent-lite)** — A compact `agent-browser` fork built around Camofox and Camoufox-powered Firefox
 - 🧰 **[Skills](https://github.com/thoriqakbar0/skills)** — Reusable instructions for AI agents and the people who work with them
@@ -33,6 +34,7 @@ At [Pandai](https://pandai.org), I’m building [P&AI](https://github.com/p-n-ai
 ## Selected notes
 
 - **[In defense of Electron](https://ta-0.com/blog/in-defense-of-electron)** — The desktop software Electron made possible and what its successors should preserve
+- **[The best software is yet to be made](https://ta-0.com/blog/the-best-software-is-yet-to-be-made)** — Ernie and task-shaped interfaces for recursive agents
 - **[Enduring agents, disappearing machines](https://ta-0.com/blog/enduring-agents-disappearing-machines)** — Separating the lifetime of an agent from the machines it uses
 - **[I make music and software](https://ta-0.com/blog/i-make-music-and-software)** — Stage fright, listening as craft, and learning to make before feeling worthy
 
