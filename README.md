@@ -22,6 +22,7 @@ At [Pandai](https://pandai.org), I’m building [P&AI](https://github.com/p-n-ai
 
 ## More projects
 
+- 🐒 **Monkey** — A shell command that creates or enters Git worktrees, with optional Rift copy-on-write snapshots *(private)*
 - 🚢 **[Ship LLM](https://github.com/thoriqakbar0/ship-llm)** — Typed, streaming LLM calls through Python decorators *(archived)*
 - 📈 **[Capstone](https://github.com/thoriqakbar0/capstone)** — Property valuation tools built as executable Marimo notebooks
 - 🔎 **[Retrieval demo](https://github.com/thoriqakbar0/retrieval-demo)** — An interface for inspecting retrieval results and their sources
