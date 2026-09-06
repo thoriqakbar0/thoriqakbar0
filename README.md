@@ -15,16 +15,16 @@ At [Pandai](https://pandai.org), I’m building [P&AI](https://github.com/p-n-ai
 ## Start here
 
 - 🤖 **[P&AI](https://github.com/p-n-ai/pai-bot)**: An open-source tutoring agent for curriculum-based practice
-- 🖥️ **[Ernie](https://github.com/thoriqakbar0/ernie)**: An experimental workspace for coding agent sessions, repositories, and Git worktrees, powered by the Prime Agent runtime
-- 🌐 **[browser.jr](https://github.com/thoriqakbar0/browser.jr)**: A small Rust browser for agents to inspect pages, control them, and verify their work
-- 🌱 **[Garden](https://github.com/thoriqakbar0/garden)**: A self-hosted Go runtime for agents compatible with Vercel’s [Eve framework](https://vercel.com/eve)
-- 🦊 **[Agent Lite](https://github.com/thoriqakbar0/agent-lite)**: An experimental `agent-browser` fork for agents to inspect and interact with pages through Firefox
-- 🧰 **[Skills](https://github.com/thoriqakbar0/skills)**: Reusable instructions for AI agents and the people who work with them
+- 🖥️ **[Ernie](https://github.com/thoriqakbar0/ernie)**: An experiment in agent interfaces that follow the work across sessions, repositories, and Git worktrees
+- 🌐 **[browser.jr](https://github.com/thoriqakbar0/browser.jr)**: An attempt to rethink the browser engine around agents
+- 🌱 **[Garden](https://github.com/thoriqakbar0/garden)**: Run agents built for Vercel’s [Eve framework](https://vercel.com/eve) on your own infrastructure
+- 🦊 **[Agent Lite](https://github.com/thoriqakbar0/agent-lite)**: The `agent-browser` workflow, rebuilt around Camofox in an experimental fork
+- 🧰 **[Skills](https://github.com/thoriqakbar0/skills)**: The ways I work with agents, written down to reuse and share
 
 ## More projects
 
-- 🐒 **[Monkey](https://github.com/thoriqakbar0/monkey)**: Create or enter a Git worktree from your shell
-- 🚢 **[Ship LLM](https://github.com/thoriqakbar0/ship-llm)**: Typed, streaming LLM calls through Python decorators *(archived)*
+- 🐒 **[Monkey](https://github.com/thoriqakbar0/monkey)**: Create and move between Git worktrees with one shell command
+- 🚢 **[Ship LLM](https://github.com/thoriqakbar0/ship-llm)**: Calling an LLM should feel like calling a function *(archived)*
 - 📈 **[Capstone](https://github.com/thoriqakbar0/capstone)**: Property valuation tools built as executable Marimo notebooks
 - 🔎 **[Retrieval demo](https://github.com/thoriqakbar0/retrieval-demo)**: An interface for inspecting retrieval results and their sources
 - 🧪 **[Simkit](https://github.com/thoriqakbar0/simkit)**: Turn descriptions of processes and resources into SimPy simulations
