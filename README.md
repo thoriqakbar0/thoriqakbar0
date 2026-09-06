@@ -1,10 +1,10 @@
 # Hi, I’m Thoriq 👋
 
-**AI product engineer** building frontier AI systems for education.
+AI product engineer building tutoring agents and tools for agent workflows.
 
-I work across agent behavior, memory, retrieval, evals, backend infrastructure, and product interfaces.
+I work across agent behavior, memory, retrieval, evaluations, backend infrastructure, and product interfaces.
 
-At [Pandai](https://pandai.org), I’m building [P&AI](https://github.com/p-n-ai/pai-bot), an open-source tutoring agent for students in Malaysia and Brunei. I like early-stage startups where I can listen closely to users, turn rough ideas into working products, and improve them through real feedback.
+At [Pandai](https://pandai.org), I’m building [P&AI](https://github.com/p-n-ai/pai-bot), an open-source tutoring agent for students in Malaysia and Brunei. I like working with early-stage teams, testing ideas with users, and improving products through feedback.
 
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
@@ -14,37 +14,32 @@ At [Pandai](https://pandai.org), I’m building [P&AI](https://github.com/p-n-ai
 
 ## Start here
 
-- 🤖 **[P&AI](https://github.com/p-n-ai/pai-bot)** — An open-source tutoring agent for curriculum-based practice
-- 🖥️ **[Ernie](https://github.com/thoriqakbar0/ernie)** — An experimental macOS workspace that keeps Prime Agent sessions with their repositories and Git worktrees
-- 🌱 **[Garden](https://github.com/thoriqakbar0/garden)** — Run Eve on your own infrastructure
-- 🦊 **[Agent Lite](https://github.com/thoriqakbar0/agent-lite)** — A compact `agent-browser` fork built around Camofox and Camoufox-powered Firefox
-- 🧰 **[Skills](https://github.com/thoriqakbar0/skills)** — Reusable instructions for AI agents and the people who work with them
+- 🤖 **[P&AI](https://github.com/p-n-ai/pai-bot)**: An open-source tutoring agent for curriculum-based practice
+- 🖥️ **[Ernie](https://github.com/thoriqakbar0/ernie)**: An experimental workspace for coding agent sessions, repositories, and Git worktrees, powered by the Prime Agent runtime
+- 🌐 **[browser.jr](https://github.com/thoriqakbar0/browser.jr)**: A small Rust browser for agents to inspect pages, control them, and verify their work
+- 🌱 **[Garden](https://github.com/thoriqakbar0/garden)**: A self-hosted Go runtime for agents compatible with Vercel’s [Eve framework](https://vercel.com/eve)
+- 🦊 **[Agent Lite](https://github.com/thoriqakbar0/agent-lite)**: An experimental `agent-browser` fork for agents to inspect and interact with pages through Firefox
+- 🧰 **[Skills](https://github.com/thoriqakbar0/skills)**: Reusable instructions for AI agents and the people who work with them
 
 ## More projects
 
-- 🐒 **Monkey** — A shell command that creates or enters Git worktrees, with optional Rift copy-on-write snapshots *(private)*
-- 🚢 **[Ship LLM](https://github.com/thoriqakbar0/ship-llm)** — Typed, streaming LLM calls through Python decorators *(archived)*
-- 📈 **[Capstone](https://github.com/thoriqakbar0/capstone)** — Property valuation tools built as executable Marimo notebooks
-- 🔎 **[Retrieval demo](https://github.com/thoriqakbar0/retrieval-demo)** — An interface for inspecting retrieval results and their sources
-- 🧪 **[Simkit](https://github.com/thoriqakbar0/simkit)** — A simulation app with a focused Svelte interface
+- 🐒 **[Monkey](https://github.com/thoriqakbar0/monkey)**: Create or enter a Git worktree from your shell
+- 🚢 **[Ship LLM](https://github.com/thoriqakbar0/ship-llm)**: Typed, streaming LLM calls through Python decorators *(archived)*
+- 📈 **[Capstone](https://github.com/thoriqakbar0/capstone)**: Property valuation tools built as executable Marimo notebooks
+- 🔎 **[Retrieval demo](https://github.com/thoriqakbar0/retrieval-demo)**: An interface for inspecting retrieval results and their sources
+- 🧪 **[Simkit](https://github.com/thoriqakbar0/simkit)**: Turn descriptions of processes and resources into SimPy simulations
 
 ## Open-source contribution
 
-- 🧠 **[RLM #40: persistent multi-turn environments](https://github.com/alexzhang13/rlm/pull/40)** — Introduced a runtime-checkable `SupportsPersistence` protocol with versioned state history, lifecycle cleanup, and regression tests
+- 🧠 **[RLM #40: persistent multi-turn environments](https://github.com/alexzhang13/rlm/pull/40)**: Added persistent environments across agent turns, with state history, cleanup, and regression tests
 
 ## Selected notes
 
-- **[In defense of Electron](https://ta-0.com/blog/in-defense-of-electron)** — The desktop software Electron made possible and what its successors should preserve
-- **[The best software is yet to be made](https://ta-0.com/blog/the-best-software-is-yet-to-be-made)** — Ernie and task-shaped interfaces for recursive agents
-- **[Enduring agents, disappearing machines](https://ta-0.com/blog/enduring-agents-disappearing-machines)** — Separating the lifetime of an agent from the machines it uses
-- **[I make music and software](https://ta-0.com/blog/i-make-music-and-software)** — Stage fright, listening as craft, and learning to make before feeling worthy
-
-## What I’m doing
-
-- Building curriculum-grounded AI tutors
-- Engineering agent memory, retrieval, evals, and safety controls
-- Taking early-stage products from rough ideas to reliable systems
+- **[In defense of Electron](https://ta-0.com/blog/in-defense-of-electron)**: The desktop software Electron made possible and what its successors should preserve
+- **[The best software is yet to be made](https://ta-0.com/blog/the-best-software-is-yet-to-be-made)**: Ernie and task-shaped interfaces for recursive agents
+- **[Enduring agents, disappearing machines](https://ta-0.com/blog/enduring-agents-disappearing-machines)**: Separating the lifetime of an agent from the machines it uses
+- **[I make music and software](https://ta-0.com/blog/i-make-music-and-software)**: Stage fright, listening as craft, and learning to make before feeling worthy
 
 ## Connect
 
-[ta-0.com](https://ta-0.com) · [GitHub profile](https://github.com/thoriqakbar0) · [X profile](https://x.com/isninkhamiss) · [Email Thoriq](mailto:thoriqakbar00@gmail.com)
+[ta-0.com](https://ta-0.com) · [X profile](https://x.com/isninkhamiss) · [Email Thoriq](mailto:thoriqakbar00@gmail.com)
