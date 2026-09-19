@@ -19,7 +19,6 @@ At [Pandai](https://pandai.org), I’m building [P&AI](https://github.com/p-n-ai
 - 🌐 **[browser.jr](https://github.com/thoriqakbar0/browser.jr)**: An attempt to rethink the browser engine around agents
 - 🌱 **[Garden](https://github.com/thoriqakbar0/garden)**: Run agents built for Vercel’s [Eve framework](https://vercel.com/eve) on your own infrastructure
 - 🦊 **[Agent Lite](https://github.com/thoriqakbar0/agent-lite)**: The `agent-browser` workflow, rebuilt around Camofox in an experimental fork
-- 🧰 **[Skills](https://github.com/thoriqakbar0/skills)**: The ways I work with agents, written down to reuse and share
 
 ## More projects
 
