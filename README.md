@@ -30,10 +30,6 @@ At [Pandai](https://pandai.org), I’m building [P&AI](https://github.com/p-n-ai
 - 🔎 **[Retrieval demo](https://github.com/thoriqakbar0/retrieval-demo)**: An interface for inspecting retrieval results and their sources
 - 🧪 **[Simkit](https://github.com/thoriqakbar0/simkit)**: Turn descriptions of processes and resources into SimPy simulations
 
-## Open-source contribution
-
-- 🧠 **[RLM #40: persistent multi-turn environments](https://github.com/alexzhang13/rlm/pull/40)**: Added persistent environments across agent turns, with state history, cleanup, and regression tests
-
 ## Selected notes
 
 - **[In defense of Electron](https://ta-0.com/blog/in-defense-of-electron)**: The desktop software Electron made possible and what its successors should preserve
