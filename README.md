@@ -23,6 +23,7 @@ At [Pandai](https://pandai.org), I’m building [P&AI](https://github.com/p-n-ai
 
 ## More projects
 
+- 🧩 **[FSL for Zed](https://github.com/thoriqakbar0/fsl-lsp)**: My pre-alpha Tree-sitter grammar, Zed extension, and language-server work for [FSL](https://github.com/ymm-oss/fsl)
 - 🐒 **[Monkey](https://github.com/thoriqakbar0/monkey)**: Create and move between Git worktrees with one shell command
 - 🚢 **[Ship LLM](https://github.com/thoriqakbar0/ship-llm)**: Calling an LLM should feel like calling a function *(archived)*
 - 📈 **[Capstone](https://github.com/thoriqakbar0/capstone)**: Property valuation tools built as executable Marimo notebooks
