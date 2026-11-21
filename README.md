@@ -1,6 +1,6 @@
 # Hi, I’m Thoriq 👋
 
-I build AI products at [Pandai](https://pandai.org), where I lead engineering for AskPbot, MathDrill, and P&AI. I write about building agents and software at [ta-0.com](https://ta-0.com).
+I build AI products at [Pandai](https://pandai.org). I write about building agents and software at [ta-0.com](https://ta-0.com).
 
 ## Current Projects
 
