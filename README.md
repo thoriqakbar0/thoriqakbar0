@@ -6,6 +6,7 @@ I build AI products at [Pandai](https://pandai.org), where I lead engineering fo
 
 ### AI Products & Experiments
 
+- 🔒 **[Redakt](https://redakt.ta-0.com/)** - A 14,000-parameter model for redacting personal information.
 - 🧪 **[WSM](https://wsm.ta-0.com)** - Edit model weights in Python, compare evaluations, and save checkpoints.
 - 📚 **[P&AI](https://github.com/p-n-ai/pai-bot)** - An open-source tutor that starts practice over chat, tracks mastery, and schedules review.
 - 🔑 **[gateway](https://gateway.ta-0.com)** - Call models and tools with one API key and one prepaid balance.
